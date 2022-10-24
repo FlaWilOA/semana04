@@ -1,0 +1,21 @@
+
+*
+body{
+background-color: rgb(138, 207, 138);
+
+}
+h3{
+    color: crimson;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    color: darkorange;
+    font-weight: bold;
+}
+p{
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+}
